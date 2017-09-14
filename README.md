@@ -1,8 +1,7 @@
 # MyToDoApp
 
-If you cannot use the Eureka library, you need to install it into the project by using Cocoa Pod.
-   
-In order to do Cocoa Pod,
+If you cannot use the Eureka library, you need to install it into the project by using Cocoa Pod as the following steps.
+
 1. Download the project and save it in your desktop
 2. open terminal of your Mac Book
 3. type cd desktop in the terminal
